@@ -3,7 +3,7 @@
 Welcome to this hands-on session — we're taking AI into real-world healthcare delivery 🚀.  
 Instead of just theory, we'll build a prototype conversational bot leveraging UlizaLlama, supporting English & Swahili (and potentially other languages). This bot can be used as a backend for WhatsApp messaging.
 
-📌 Follow along in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jreqekFPmyaEH2ku58FrLI7MYfk34Uu4#scrollTo=wWcHOdJ8YN0v)
+📌 Follow along in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ET0Rwhu9wDI2sX-Rkb7EuciaxA4Ruq56?usp=sharing)
 
 🔄 What's in this lesson?
 This practical is designed to help participants go from setup to a working AI health assistant chatbot:
